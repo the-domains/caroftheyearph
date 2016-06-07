@@ -1,0 +1,28 @@
+name: CarOfTheYearPh
+favicon: null
+layout_spectrum: 0.9758172235451639
+typography_spectrum: 0.008929617702960968
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.21130811446346343
+  lightness: 0.8083798775915056
+  saturation: 0.8766938683111221
+  rhythmicContrast: 0.010259239468723536
+purpose: []
