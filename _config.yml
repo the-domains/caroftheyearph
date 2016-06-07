@@ -2,6 +2,7 @@ name: CarOfTheYearPh
 favicon: null
 layout_spectrum: 0.9758172235451639
 typography_spectrum: 0.008929617702960968
+title: null
 cta:
   domain: null
   bucket: null
