@@ -9,13 +9,13 @@ description: >-
   online media outlets. Testing procedures have also been refined to consider
   the needs, wants and preferences of the car buying public as well as absolute
   performance characteristics of each newly introduced vehicle every year.
-dateModified: '2016-06-09T01:06:44.774Z'
-datePublished: '2016-06-09T01:08:22.614Z'
+dateModified: '2016-06-09T01:08:31.567Z'
+datePublished: '2016-06-09T01:08:31.781Z'
 title: ''
 author: []
-starred: false
 sourcePath: >-
   _posts/2016-06-09-in-2004-motoring-editors-from-some-of-the-most-respected-pu.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
