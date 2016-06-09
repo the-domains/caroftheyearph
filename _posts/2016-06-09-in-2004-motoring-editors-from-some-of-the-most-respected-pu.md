@@ -1,18 +1,10 @@
 ---
-description: >-
-  In 2004, motoring editors from some of the most respected publications in the
-  country banded together to form the Car Awards Group Incorporated with the
-  sole objective of spurring industry growth in the automotive sector by
-  informing the motoring public of the industry's many excellent products thru
-  the Car of the Year Awards. Since then, the organization has grown to
-  encompass over 50 members from the nation's leading broadcast, print and
-  online media outlets. Testing procedures have also been refined to consider
-  the needs, wants and preferences of the car buying public as well as absolute
-  performance characteristics of each newly introduced vehicle every year.
-dateModified: '2016-06-09T01:08:31.567Z'
-datePublished: '2016-06-09T01:08:31.781Z'
-title: ''
-author: []
+description: 'By: Car Awards Group, Inc.'
+dateModified: '2016-06-09T01:20:43.965Z'
+datePublished: '2016-06-09T01:20:45.493Z'
+title: Car Awards Group Inc.
+author:
+  - {}
 sourcePath: >-
   _posts/2016-06-09-in-2004-motoring-editors-from-some-of-the-most-respected-pu.md
 starred: true
@@ -22,7 +14,9 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af9c31e5-2282-4704-b579-2b2c07087267.jpg)
+* ![About Us](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c6fac1969b8199eaf93694c2bf2b57d552a2814.jpg)
+
+By: Car Awards Group, Inc.
 
 In 2004, motoring editors from some of the most respected publications in the country banded together to form the Car Awards Group Incorporated with the sole objective of spurring industry growth in the automotive sector by informing the motoring public of the industry's many excellent products thru the Car of the Year Awards. Since then, the organization has grown to encompass over 50 members from the nation's leading broadcast, print and online media outlets. Testing procedures have also been refined to consider the needs, wants and preferences of the car buying public as well as absolute performance characteristics of each newly introduced vehicle every year.
 
