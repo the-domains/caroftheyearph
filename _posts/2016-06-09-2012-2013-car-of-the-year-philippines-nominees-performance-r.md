@@ -1,12 +1,12 @@
 ---
 description: 'March 22, 2013'
-dateModified: '2016-06-09T02:08:19.482Z'
-datePublished: '2016-06-09T02:08:19.786Z'
+dateModified: '2016-06-09T02:08:26.062Z'
+datePublished: '2016-06-09T02:08:26.348Z'
 title: 2012-2013 Car of the Year Philippines Nominees Performance Results Now Out
 author: []
 sourcePath: >-
   _posts/2016-06-09-2012-2013-car-of-the-year-philippines-nominees-performance-r.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
